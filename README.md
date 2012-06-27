@@ -1,4 +1,4 @@
 djangoabe
 =========
 
-aprendendo django
+aprendendo django fonte: tutorial do djangoproject
