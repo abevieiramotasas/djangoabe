@@ -2,5 +2,5 @@
 *.pot
 *.pyc
 local_settings.py
-_templates/admin
-_templates/registration
+mysite/_templates/admin
+mysite/_templates/registration
