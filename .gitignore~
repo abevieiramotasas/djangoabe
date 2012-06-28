@@ -1,6 +1,0 @@
-*.log
-*.pot
-*.pyc
-local_settings.py
-mysite/_templates/admin
-mysite/_templates/registration
