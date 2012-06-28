@@ -3,11 +3,11 @@ import os
 
 
 # template_path = os.path.join(os.path.dirname(__file__) , '/../_templates/admin')
-#template_full_path = "/home/abelardo/Estudos/Django/mysite/_templates"
-template_path = "../_templates/admin"
+template_path = "/home/abelardo/Estudos/Django/mysite/_templates"
+#template_path = "../_templates/admin"
 
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
